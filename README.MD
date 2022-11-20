@@ -2,9 +2,12 @@
 Algoritmo de fogo do clássico Doom
 
 # Referência
+Aprendi esse algoritmo no vídeo do canal do Filipe Deschamps.
+
 Link: <a href="https://www.youtube.com/watch?v=fxm8cadCqbs">Canal Filipe Deschamps</a>
-<a href="https://github.com/filipedeschamps/doom-fire-algorithm"> 
+
 Repositório original com implentações em outras linguagens:
+<a href="https://github.com/filipedeschamps/doom-fire-algorithm"> GitHub
 </a>
 
 # Tecnologias utilizadas
